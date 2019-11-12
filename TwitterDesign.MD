@@ -1,7 +1,7 @@
 
 # Designing Twitter
 
-## Core concepts when it comes to any desing question is to focus on:
+## Core concepts when it comes to any design question is to focus on:
 1. Converse about a couple of features.
 2. Show that you have a good grasp of the service and concepts around it.
 3. You can talk about different topics concerning the several technology items within your design.
