@@ -1,7 +1,7 @@
 
-#This document is meant to provide an overview of how to approach the desing of Twitter service.
+# This document is meant to provide an overview of how to approach the desing of Twitter service.
 
-##Core concepts when it comes to any desing question is to focus on:
+## Core concepts when it comes to any desing question is to focus on:
 1. Converse about a couple of features.
 2. Show that you have a good grasp of the service and concepts around it.
 3. You can talk about different topics concerning the several technology items within your design.
@@ -10,7 +10,7 @@
 Staring off: The core features (Do not talk about the whole twitter, it is practically impossible to cover all the desing concepts of the twitter service in a single session like an interview). You want to focus on some core features "of your choice" during the interview.
 For this assignment you may pick out some below (These are my choices), you are free to extend them if you have more time.
 
-##Core features:
+## Core features:
 
 1. Tweeting (sending a tweet).
 2. Having a timeline where you see feeds from the people you follow. Here you can have two things see own tweet as a user and the people you follow and their tweets.
@@ -18,7 +18,7 @@ For this assignment you may pick out some below (These are my choices), you are 
 
 To start with a design flow. You can start off by giving a naive approach and later a more refined approach.
 
-1. Naive approach ( where you have two tables, a TWEETS table and USER table.)
+### Naive approach ( where you have two tables, a TWEETS table and USER table.)
 
 The TWEET table will have below fields:
 1. ID (Autoincrement field)
@@ -36,7 +36,7 @@ By Consistency, we refer to Eventual consitency, meaning once data is written to
 
 Moving away from the naive approach.
 
-2. Precomputing the followers.
+### Precomputing the followers.
 
 
 
