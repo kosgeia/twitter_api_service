@@ -4,7 +4,7 @@
 ## Core concepts when it comes to any design question is to focus on:
 1. Converse about a couple of features.
 2. Show that you have a good grasp of the service and concepts around it.
-3. You can talk about different topics concerning the several technology items within your design.
+3. You can talk about different topics concerning the different technology items within your design.
 4. Identify some core features your design will cover.
 
 Staring off: The core features (Do not talk about the whole twitter, it is practically impossible to cover all the desing concepts of the twitter service in a single session like an interview). You want to focus on some core features "of your choice" during the interview.
