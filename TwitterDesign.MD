@@ -1,5 +1,5 @@
 
-# This document is meant to provide an overview of how to approach the design of Twitter service.
+# Designing Twitter
 
 ## Core concepts when it comes to any desing question is to focus on:
 1. Converse about a couple of features.
