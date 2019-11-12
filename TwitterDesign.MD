@@ -16,7 +16,7 @@ For this assignment you may pick out some below (These are my choices), you are 
 - Having a timeline where you see feeds from the people you follow. Here you can have two things see own tweet as a user and the people you follow and their tweets.
 - Following a person.
 
-To start with a design flow. You can start off by giving a naive approach and later a more refined approach.
+To start with a design flow. You can start off by giving a naive approach and later a more advanced approach.
 
 ### Naive approach ( where you have two tables, a TWEETS table, and USER table.)
 
@@ -36,7 +36,7 @@ By Consistency, we refer to Eventual consistency, meaning once data is written t
 
 Moving away from the naive approach.
 
-### Precomputing the followers.
+### Precomputing the followers(advanced approach).
 
 
 
