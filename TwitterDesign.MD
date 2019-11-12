@@ -1,5 +1,5 @@
 
-# This document is meant to provide an overview of how to approach the desing of Twitter service.
+# This document is meant to provide an overview of how to approach the design of Twitter service.
 
 ## Core concepts when it comes to any desing question is to focus on:
 1. Converse about a couple of features.
@@ -12,9 +12,9 @@ For this assignment you may pick out some below (These are my choices), you are 
 
 ## Core features:
 
-1. Tweeting (sending a tweet).
-2. Having a timeline where you see feeds from the people you follow. Here you can have two things see own tweet as a user and the people you follow and their tweets.
-3. Following a person.
+- Tweeting (sending a tweet).
+- Having a timeline where you see feeds from the people you follow. Here you can have two things see own tweet as a user and the people you follow and their tweets.
+- Following a person.
 
 To start with a design flow. You can start off by giving a naive approach and later a more refined approach.
 
